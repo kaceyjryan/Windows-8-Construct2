@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KACEYS-PC</Machine>
+    <WindowsUser>Kaceyjryan</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\about.html">
+      <PackagePath>about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\support.html">
+      <PackagePath>support.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\card-sheet0.png">
+      <PackagePath>images\card-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\background-sheet0.png">
+      <PackagePath>images\background-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\picture-sheet0.png">
+      <PackagePath>images\picture-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\picture2-sheet0.png">
+      <PackagePath>images\picture2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\picture3-sheet0.png">
+      <PackagePath>images\picture3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\sprite2-sheet0.png">
+      <PackagePath>images\sprite2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\sprite3-sheet0.png">
+      <PackagePath>images\sprite3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\backbutton-sheet0.png">
+      <PackagePath>images\backbutton-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\images\picture4-sheet0.png">
+      <PackagePath>images\picture4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\media\sfx5.m4a">
+      <PackagePath>media\sfx5.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\media\ui1.m4a">
+      <PackagePath>media\ui1.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\media\upgrade1.m4a">
+      <PackagePath>media\upgrade1.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\media\mattoglseby - 1.m4a">
+      <PackagePath>media\mattoglseby - 1.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\media\you got a friend.m4a">
+      <PackagePath>media\you got a friend.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\media\you got a friend2.m4a">
+      <PackagePath>media\you got a friend2.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch%28Updated%29\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

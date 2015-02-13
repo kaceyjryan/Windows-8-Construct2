@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KACEYS-PC</Machine>
+    <WindowsUser>Kaceyjryan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>3C589F38CE15D0BDD35DFC9C9E46B4C7426FB6E2323408CF773C058E0B4935C9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9917SexyLlama.Psycho2_1.0.1.1_neutral__smatr6v4mzdcr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9917SexyLlama.Psycho2_smatr6v4mzdcr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9917SexyLlama.Psycho2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=8892E6C7-49E3-48D6-B104-B79CBE8F9752</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.1.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-10T04:50:31.941</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2013-10-10T04:28:57.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\about.html">
+      <PackagePath>about.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\support.html">
+      <PackagePath>support.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+      <Modified>2013-10-10T04:29:07.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-09-03T20:31:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\tiledbackground2.png">
+      <PackagePath>images\tiledbackground2.png</PackagePath>
+      <Modified>2013-10-10T04:28:42.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\player-sheet0.png">
+      <PackagePath>images\player-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\monster-sheet0.png">
+      <PackagePath>images\monster-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\bullet-sheet0.png">
+      <PackagePath>images\bullet-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\explode-sheet0.png">
+      <PackagePath>images\explode-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\monster2-sheet0.png">
+      <PackagePath>images\monster2-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\monster3-sheet0.png">
+      <PackagePath>images\monster3-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\temp-sheet0.png">
+      <PackagePath>images\temp-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\rightarrow-sheet0.png">
+      <PackagePath>images\rightarrow-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\test-sheet0.png">
+      <PackagePath>images\test-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:40.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\gunbeam-sheet0.png">
+      <PackagePath>images\gunbeam-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:44.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\beam-sheet0.png">
+      <PackagePath>images\beam-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:44.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\machinegun-sheet0.png">
+      <PackagePath>images\machinegun-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:45.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\railgun-sheet0.png">
+      <PackagePath>images\railgun-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:47.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\rocket-sheet0.png">
+      <PackagePath>images\rocket-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:52.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\explosion-sheet0.png">
+      <PackagePath>images\explosion-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:50.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\rpg-sheet0.png">
+      <PackagePath>images\rpg-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:42.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\images\shotgun-sheet0.png">
+      <PackagePath>images\shotgun-sheet0.png</PackagePath>
+      <Modified>2013-10-10T04:28:57.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+      <Modified>2013-10-09T21:08:46.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+      <Modified>2013-10-09T21:08:46.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+      <Modified>2013-10-09T21:08:46.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+      <Modified>2013-10-09T21:08:46.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+      <Modified>2013-10-09T21:08:46.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-10T04:42:11.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-10T04:40:49.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-10T04:41:36.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-10T04:42:50.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+      <Modified>2013-05-23T22:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\Psycho 2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-10T04:50:31.878</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bin\Release\resources.pri
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bin\Release\AppxManifest.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bin\Release\Toystorymatch.build.appxrecipe
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bld\Release\priconfig.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bld\Release\layout.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bld\Release\resources.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bld\Release\pri.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bld\Release\LanguageQualifiers.txt
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch(Updated)\bld\Release\ProjectArchitectures.txt

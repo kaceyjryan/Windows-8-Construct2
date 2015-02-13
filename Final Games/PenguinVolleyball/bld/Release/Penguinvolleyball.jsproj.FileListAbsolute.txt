@@ -1,0 +1,13 @@
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bin\Release\resources.pri
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bin\Release\AppxManifest.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bin\Release\Penguinvolleyball.build.appxrecipe
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\priconfig.xml.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\layout.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\resources.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\pri.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\priconfig.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\layout.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\resources.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\pri.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\LanguageQualifiers.txt
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bld\Release\ProjectArchitectures.txt

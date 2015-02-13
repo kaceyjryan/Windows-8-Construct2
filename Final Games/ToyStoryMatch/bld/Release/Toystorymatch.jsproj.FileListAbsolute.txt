@@ -1,0 +1,13 @@
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bin\Release\resources.pri
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bin\Release\AppxManifest.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bin\Release\Toystorymatch.build.appxrecipe
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\priconfig.xml.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\layout.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\resources.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\pri.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\priconfig.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\layout.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\resources.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\pri.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\LanguageQualifiers.txt
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\ToyStoryMatch\bld\Release\ProjectArchitectures.txt

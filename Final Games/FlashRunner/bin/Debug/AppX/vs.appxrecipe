@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KACEYS-PC</Machine>
+    <WindowsUser>Kaceyjryan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2D16B760ED27F73393F4E1B50B155D057BE6378259CF16B280FAACF5B7F882E7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8785798b-8549-4f3d-bb5d-7d90fa262494_1.0.1.1_neutral__4tbg1e9xsczkg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8785798b-8549-4f3d-bb5d-7d90fa262494_4tbg1e9xsczkg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8785798b-8549-4f3d-bb5d-7d90fa262494</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kacey Ryan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.1.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-18T04:03:03.391</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2013-10-18T03:51:19.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\about.html">
+      <PackagePath>about.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\support.html">
+      <PackagePath>support.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+      <Modified>2013-10-18T03:51:29.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-09-03T20:31:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+      <Modified>2013-10-18T03:51:19.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\images\block.png">
+      <PackagePath>images\block.png</PackagePath>
+      <Modified>2013-10-18T03:51:16.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\images\player-sheet0.png">
+      <PackagePath>images\player-sheet0.png</PackagePath>
+      <Modified>2013-10-18T03:51:19.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+      <Modified>2011-11-30T05:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+      <Modified>2011-11-30T04:53:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+      <Modified>2013-04-20T02:56:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+      <Modified>2011-11-30T05:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+      <Modified>2011-11-30T05:35:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-18T03:59:45.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-18T04:00:17.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-18T04:00:59.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-18T04:01:53.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+      <Modified>2013-05-23T22:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-18T04:03:03.329</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

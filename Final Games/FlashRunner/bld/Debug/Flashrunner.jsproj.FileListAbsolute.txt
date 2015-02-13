@@ -1,0 +1,13 @@
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bin\Debug\resources.pri
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bin\Debug\AppxManifest.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\priconfig.xml.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\layout.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\resources.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\pri.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\priconfig.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\layout.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\resources.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\pri.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\LanguageQualifiers.txt
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bld\Debug\ProjectArchitectures.txt
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\FlashRunner\bin\Debug\Flashrunner.build.appxrecipe

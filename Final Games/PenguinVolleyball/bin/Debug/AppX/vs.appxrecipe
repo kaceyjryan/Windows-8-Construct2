@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KACEYS-PC</Machine>
+    <WindowsUser>Kaceyjryan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>51ECC11F56790167922A337A03A3376338D25722841A78C5F0A2F01647C59A38</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>787fb2cb-bdc9-415d-9dcd-a8139ed39677_1.0.1.1_neutral__4tbg1e9xsczkg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>787fb2cb-bdc9-415d-9dcd-a8139ed39677_4tbg1e9xsczkg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>787fb2cb-bdc9-415d-9dcd-a8139ed39677</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kacey Ryan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.1.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-14T19:13:04.665</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2013-10-14T19:04:16.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\about.html">
+      <PackagePath>about.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\support.html">
+      <PackagePath>support.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+      <Modified>2012-11-13T22:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+      <Modified>2013-10-14T19:04:27.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-09-03T20:31:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\tiledbackground2.png">
+      <PackagePath>images\tiledbackground2.png</PackagePath>
+      <Modified>2013-10-14T19:04:03.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+      <Modified>2013-10-14T19:04:03.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\net-sheet0.png">
+      <PackagePath>images\net-sheet0.png</PackagePath>
+      <Modified>2013-10-14T19:04:03.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\penguin-sheet0.png">
+      <PackagePath>images\penguin-sheet0.png</PackagePath>
+      <Modified>2013-10-14T19:04:15.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\ball-sheet0.png">
+      <PackagePath>images\ball-sheet0.png</PackagePath>
+      <Modified>2013-10-14T19:04:08.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\ground-sheet0.png">
+      <PackagePath>images\ground-sheet0.png</PackagePath>
+      <Modified>2013-10-14T19:04:02.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\penguin2-sheet0.png">
+      <PackagePath>images\penguin2-sheet0.png</PackagePath>
+      <Modified>2013-10-14T19:04:15.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+      <Modified>2013-10-14T19:04:03.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\images\rightarrow-sheet0.png">
+      <PackagePath>images\rightarrow-sheet0.png</PackagePath>
+      <Modified>2013-10-14T19:04:03.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+      <Modified>2013-10-14T16:59:34.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+      <Modified>2013-10-14T16:59:34.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+      <Modified>2013-10-14T16:59:34.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+      <Modified>2013-10-14T16:59:34.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+      <Modified>2013-10-14T16:59:34.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-14T19:10:54.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-14T19:11:19.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-14T19:11:59.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-14T19:12:46.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+      <Modified>2013-05-23T22:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\PenguinVolleyball\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-14T19:13:04.461</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 3</name>
+    <events>
+        <event-block sid="9218483809067275">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="3201342073639257" type="System" />
+            </conditions>
+            <actions>
+                <action id="-13" name="Set time scale" sid="9665260977588834" type="System">
+                    <param id="0" name="Time scale">1.0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="3968021603805605">
+            <conditions>
+                <condition id="0" name="On click" sid="835459144510286" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="2154239740201154" type="System">
+                    <param id="0" name="Layout">Layout 1</param>
+                </action>
+                <action id="-21" name="Reset global variables" sid="5088592542985062" type="System" />
+                <action id="-9" name="Set value" sid="7313474665266834" type="System">
+                    <param id="0" name="Variable">TouchScreen</param>
+                    <param id="1" name="Value">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="9423780456328851">
+            <conditions>
+                <condition id="1" name="On any key pressed" sid="8499716842840737" type="Keyboard" />
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="9463412079011213" type="System">
+                    <param id="0" name="Layout">Layout 1</param>
+                </action>
+                <action id="-21" name="Reset global variables" sid="3673911714959377" type="System" />
+                <action id="-9" name="Set value" sid="1325345876925624" type="System">
+                    <param id="0" name="Variable">TouchScreen</param>
+                    <param id="1" name="Value">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="1810394569636542">
+            <conditions>
+                <condition id="0" name="On any touch start" sid="7355307248481677" type="Touch" />
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="9990835572010205" type="System">
+                    <param id="0" name="Layout">Layout 1</param>
+                </action>
+                <action id="-21" name="Reset global variables" sid="1000701374020856" type="System" />
+                <action id="-9" name="Set value" sid="9970839496335187" type="System">
+                    <param id="0" name="Variable">TouchScreen</param>
+                    <param id="1" name="Value">1</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="9917SexyLlama.FlashRunner" Version="1.0.1.1" Publisher="CN=8892E6C7-49E3-48D6-B104-B79CBE8F9752" />
+  <Properties>
+    <DisplayName>Flash Runner</DisplayName>
+    <Description>Side Scrolling Jump</Description>
+    <PublisherDisplayName>Sexy Llama</PublisherDisplayName>
+    <Logo>app-storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="index.html">
+      <VisualElements DisplayName="Flash Runner" Logo="app-logo.png" SmallLogo="app-smalllogo.png" Description="Side Scrolling Jump" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" ShortName="Flash Runner" />
+        <SplashScreen Image="splashscreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.protocol">
+          <Protocol Name="cs188kaceyryan">
+            <DisplayName>kacey ryan</DisplayName>
+          </Protocol>
+        </Extension>
+        <Extension Category="windows.protocol">
+          <Protocol Name="uclacs188">
+            <DisplayName>ucla cs</DisplayName>
+          </Protocol>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+</Package>

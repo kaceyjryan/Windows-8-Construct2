@@ -1,0 +1,13 @@
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bin\Debug\resources.pri
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bin\Debug\AppxManifest.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bin\Debug\Hyperspace.build.appxrecipe
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\priconfig.xml.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\layout.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\resources.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\pri.resfiles.intermediate
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\priconfig.xml
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\layout.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\resources.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\pri.resfiles
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\LanguageQualifiers.txt
+C:\Users\Kaceyjryan\Documents\Construct 2\Final Games\HyperSpace\bld\Debug\ProjectArchitectures.txt
